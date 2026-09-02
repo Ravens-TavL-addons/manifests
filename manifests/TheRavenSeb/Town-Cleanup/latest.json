@@ -12,7 +12,7 @@
 	"parity_required": false,
 	"dependencies": {},
 	"library_dependencies": [],
-	"download_url": "https://github.com/Ravens-TavL-addons/Town-Cleanup/releases/download/v1.0.0/Town-Cleanup-v1.0.0.zip",
+	"download_url": "https://github.com/Ravens-TavL-addons/Town-Cleanup/releases/download/v1.0.0/Town-Cleanup.zip",
 	"sha256": "",
 	"package": "zip"
 }
