@@ -1,0 +1,18 @@
+{
+	"manifest_version": 1,
+	"id": "TheRavenSeb.Town-Cleanup",
+	"name": "Town Cleanup",
+	"version": "1.0.0",
+	"author": "TheRavenSeb",
+	"description": "A server addon for Town Cleanup.",
+	"client_side": false,
+	"server_side": true,
+	"server_addon": true,
+	"tavern_addon": false,
+	"parity_required": false,
+	"dependencies": {},
+	"library_dependencies": [],
+	"download_url": "https://github.com/Ravens-TavL-addons/Town-Cleanup/releases/download/v1.0.0/Town-Cleanup-v1.0.0.zip",
+	"sha256": "",
+	"package": "zip"
+}
