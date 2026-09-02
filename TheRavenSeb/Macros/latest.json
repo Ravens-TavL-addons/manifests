@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "TheRavenSeb.Macros",
+	"name": "TavernKeeper Macro's",
+	"version": "1.0.1",
+	"author": "TheRavenSeb",
+	"description": "An addon for Tavern Keeper to automate the execution of multiple commands at once.",
+	"client_side": true,
+	"server_side": false,
+	"parity_required": false,
+	"dependencies": {},
+	"library_dependencies": [],
+	"download_url": "https://github.com/Ravens-TavL-addons/Macros/releases/download/v1.0.0/Macro-v1.0.1.zip",
+	"sha256": "893c4bfe9752a84c24997de72618c16527d222a90e3ee8cf99b80e1af6db2f48",
+	"package": "zip"
+}
